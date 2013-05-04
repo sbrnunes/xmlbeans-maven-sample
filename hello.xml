@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sam:hello xmlns:sam="http://xmlbeans.apache.org/samples/template/sampletemplate"><sam:name>Name 1</sam:name><sam:name>Name 2</sam:name></sam:hello>
